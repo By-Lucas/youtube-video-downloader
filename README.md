@@ -12,6 +12,6 @@ SE DER ALGUM ERRO É SÓ RODAR O CÓDIGO ABAIXO
 python -m pip install --upgrade pytube
 #
 
-<p align='center'>
-  <img href='video.gif' width=500px>
+<p align="center">
+  <img width="700px" src="video.gif">
 </p>
